@@ -1,8 +1,9 @@
 Optimiza repositorio
-'''bash
-$ git gc
-'''
 
-'''bash
+```bash
+$ git gc
+```
+
+```bash
 $ git fsck
-'''
+```
