@@ -15,3 +15,15 @@ File System Check - Verifica posibles archivos corruptos
 ```bash
 $ git fsck
 ```
+
+Historial de commit, branches, resets
+
+```bash
+$ git reflog
+```
+
+Convertir repo en un archivo comprimido
+
+```bash
+$ git archive --format zip --output master_files.zip master
+```
